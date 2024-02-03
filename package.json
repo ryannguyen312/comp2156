@@ -4,8 +4,8 @@
   "description": "comp2156 lab exercise",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\""
-    "ci: echo \ "No ci configured\""
+    "test": "echo \"Error: no test specified\"",
+    "ci": "echo \"Error: No ci configured\""
   },
   "keywords": [],
   "author": "Minh Cuong Nguyen",
