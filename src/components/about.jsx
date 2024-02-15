@@ -17,6 +17,7 @@ export default class About extends Component {
                       <span className="heading-meta">About Us</span>
                       <h2 className="colorlib-heading">Who Am I?</h2>
                       <p>
+                        <h4>MinhCuong Nguyen, Toronto</h4>
                         Lorem ipsum dolor sit amet consectetur adipisicing elit.
                         Nostrum modi quis, ad dolores eos adipisci? Nisi
                         pariatur facere ducimus iusto quia veniam ipsum
@@ -59,7 +60,8 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Web Development </h3>
                     <p>
-                      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Necessitatibus quod ab veniam inventore similique sit!
+                      Lorem ipsum dolor, sit amet consectetur adipisicing elit.
+                      Necessitatibus quod ab veniam inventore similique sit!
                     </p>
                   </div>
                 </div>
@@ -72,7 +74,8 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Data Structures & Algorithms</h3>
                     <p>
-                      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Unde neque doloribus eveniet porro qui quidem.
+                      Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+                      Unde neque doloribus eveniet porro qui quidem.
                     </p>
                   </div>
                 </div>
@@ -85,7 +88,8 @@ export default class About extends Component {
                   <div className="desc">
                     <h3>Dev Ops</h3>
                     <p>
-                      Lorem ipsum, dolor sit amet consectetur adipisicing elit. Id impedit earum ab laudantium incidunt omnis.
+                      Lorem ipsum, dolor sit amet consectetur adipisicing elit.
+                      Id impedit earum ab laudantium incidunt omnis.
                     </p>
                   </div>
                 </div>
